@@ -3303,7 +3303,7 @@ body.is-loading #header.alt {
     -webkit-align-items: center;
     -ms-align-items: center;
     align-items: center;
-    background-image: url("images/madre-banner.jpg");
+    background-image: url("../../images/madre-banner.jpg");
     display: -moz-flex;
     display: -webkit-flex;
     display: -ms-flex;
